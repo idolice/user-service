@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-test:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Could not find org.springframework.boot:spring-boot-starter-test:.&#10;Searched in the following locations:&#10;    https:/jcenter.bintray.com/org/springframework/boot/spring-boot-starter-test/spring-boot-starter-test-.pom&#10;    https:/jcenter.bintray.com/org/springframework/boot/spring-boot-starter-test/spring-boot-starter-test-.jar&#10;    https:/repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-test/spring-boot-starter-test-.pom&#10;    https:/repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-test/spring-boot-starter-test-.jar&#10;    file:/Users/bingwang/.m2/repository/org/springframework/boot/spring-boot-starter-test/spring-boot-starter-test-.pom&#10;    file:/Users/bingwang/.m2/repository/org/springframework/boot/spring-boot-starter-test/spring-boot-starter-test-.jar&#10;    http:/ec2-54-222-235-15.cn-north-1.compute.amazonaws.com.cn:8081/repository/maven-central/org/springframework/boot/spring-boot-starter-test/spring-boot-starter-test-.pom&#10;    http:/ec2-54-222-235-15.cn-north-1.compute.amazonaws.com.cn:8081/repository/maven-central/org/springframework/boot/spring-boot-starter-test/spring-boot-starter-test-.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
